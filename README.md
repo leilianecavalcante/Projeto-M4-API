@@ -46,7 +46,7 @@
   <li>Clone o repositório:
     <pre>git clone https://github.com/leilianecavalcante/Projeto-M4-API.git
   </li>
-  <li>Entre na pasta:
+  <li>Entre na pasta Principal:
     <pre>cd Projeto-M4-API</pre>
   <h3>4. Verifique os Arquivos</h3>
 <p>Agora, verifique se o arquivo <code>package.json</code> está presente dentro da pasta do projeto:</p>
@@ -57,6 +57,8 @@
 <pre>
   <code>dir</code>
 </pre>
+    <li>Entre na pasta:
+    <pre>cd Projeto-M4-API</pre>
 <p>Você deve ver a pasta <code>desaparecidos-api</code> e o arquivo <code>package.json</code>.</p>
 
 <h3>6. Instale as Dependências</h3>
