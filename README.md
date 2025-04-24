@@ -47,8 +47,7 @@
     <pre>git clone https://github.com/seu-usuario/desaparecidos-api.git</pre>
   </li>
   <li>Entre na pasta:
-    <pre>cd /c/Users/plugify/Documents/Projeto\ M4/desaparecidos-api
-</pre>
+    <pre>cd **seu cd**</pre>
   </li>
   <li>Instale as dependências:
     <pre>npm install</pre>
