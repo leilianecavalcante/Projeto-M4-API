@@ -44,7 +44,7 @@
 
 <ol>
   <li>Clone o repositório:
-    <pre>git clone https://github.com/seu-usuario/desaparecidos-api.git</pre>
+    <pre>git clone https://github.com/leilianecavalcante/Projeto-M4-API.git
   </li>
   <li>Entre na pasta:
     <pre>cd **seu cd**</pre>
