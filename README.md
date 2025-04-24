@@ -48,18 +48,37 @@
   </li>
   <li>Entre na pasta:
     <pre>cd Projeto-M4-API</pre>
-  </li>
-  <li>Instale as dependências:
-    <pre>npm install</pre>
-  </li>
-  <li>Inicie o servidor:
-    <pre>npm start</pre>
-    ou
-    <pre>node src/server.js</pre>
-  </li>
-</ol>
+  <h3>4. Verifique os Arquivos</h3>
+<p>Agora, verifique se o arquivo <code>package.json</code> está presente dentro da pasta do projeto:</p>
+<pre>
+  <code>ls</code>
+</pre>
+<p>Ou no Windows, use:</p>
+<pre>
+  <code>dir</code>
+</pre>
+<p>Você deve ver a pasta <code>desaparecidos-api</code> e o arquivo <code>package.json</code>.</p>
 
-<h3>✔ A API estará disponível em:</h3>
+<h3>6. Instale as Dependências</h3>
+<p>Agora, instale todas as dependências necessárias para rodar o projeto:</p>
+<pre>
+  <code>npm install</code>
+</pre>
+<p>Isso vai baixar todas as bibliotecas necessárias para a API funcionar.</p>
+
+<h3>7. Rode a API</h3>
+<p>Com as dependências instaladas, agora execute o comando:</p>
+<pre>
+  <code>npm start</code>
+</pre>
+<p>Ou, caso o comando <code>start</code> não funcione, execute diretamente:</p>
+<pre>
+  <code>node src/server.js</code>
+</pre>
+<p>A API deve agora estar rodando em <strong>http://localhost:3000</strong>.</p>
+
+<h3>8. Acesse no Navegador</h3>
+<p>Abra seu navegador e digite o seguinte endereço para acessar a API:</p>
 <ul>
   <li><code>http://localhost:3000/criancas</code></li>
   <li><code>http://localhost:3000/criancas/1</code></li>
