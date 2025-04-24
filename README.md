@@ -47,7 +47,7 @@
     <pre>git clone https://github.com/leilianecavalcante/Projeto-M4-API.git
   </li>
   <li>Entre na pasta:
-    <pre>cd **seu cd**</pre>
+    <pre>cd Projeto-M4-API</pre>
   </li>
   <li>Instale as dependências:
     <pre>npm install</pre>
