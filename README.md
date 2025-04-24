@@ -58,7 +58,7 @@
   <code>dir</code>
 </pre>
     <li>Entre na pasta:
-    <pre>cd Projeto-M4-API</pre>
+    <pre>cd desaparecidos-api</pre>
 <p>Você deve ver a pasta <code>desaparecidos-api</code> e o arquivo <code>package.json</code>.</p>
 
 <h3>6. Instale as Dependências</h3>
